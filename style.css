@@ -1,0 +1,11 @@
+#heading h1{
+    color: blue;
+}
+#heading{
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+.event_card{
+    padding: 5%;
+}
