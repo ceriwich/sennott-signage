@@ -6,6 +6,16 @@
     margin-left: auto;
     margin-right: auto;
 }
-.event_card{
-    padding: 5%;
+#content article{
+    font-size: 15pt;
+    float: left;
+    margin-left:15%;
+    margin-right:15%;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+article small{
+    margin-right: 1rem;
 }
